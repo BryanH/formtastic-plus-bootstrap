@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.9
+
+* Updated dependencies:
+  * bootstrap-sass 3.36
+  * formtastic 3.1
+  * sass-rails 3.2
+
 ## 1.1.7
 
 * Fixed formtastic-plus-boostrap importing from subfolders.
