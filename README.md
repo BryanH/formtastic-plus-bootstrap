@@ -9,7 +9,7 @@
 Add following lines to Gemfile:
 
     gem "formtastic", "~> 3.1"
-    gem "formtastic-plus-bootstrap"
+    gem 'formtastic-plus-bootstrap', git: 'https://github.com/BryanH/formtastic-plus-bootstrap.git'
 
 Run `bundle install`.
 
