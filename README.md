@@ -1,6 +1,9 @@
 # Formtastic meets Bootstrap
 
 [![Dependency Status](https://gemnasium.com/BryanH/formtastic-plus-bootstrap.svg)](https://gemnasium.com/BryanH/formtastic-plus-bootstrap)
+[![Code Climate](https://codeclimate.com/github/BryanH/formtastic-plus-bootstrap/badges/gpa.svg)](https://codeclimate.com/github/BryanH/formtastic-plus-bootstrap)
+[![Issue Count](https://codeclimate.com/github/BryanH/formtastic-plus-bootstrap/badges/issue_count.svg)](https://codeclimate.com/github/BryanH/formtastic-plus-bootstrap)
+[![Test Coverage](https://codeclimate.com/github/BryanH/formtastic-plus-bootstrap/badges/coverage.svg)](https://codeclimate.com/github/BryanH/formtastic-plus-bootstrap/coverage)
 
 `formtastic-plus-bootstrap` makes a [formtastic](https://github.com/justinfrench/formtastic) form to look like a [bootstrap](https://getbootstrap.com/) form.
 
