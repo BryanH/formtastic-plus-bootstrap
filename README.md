@@ -2,7 +2,7 @@
 
 [![Dependency Status](https://gemnasium.com/BryanH/formtastic-plus-bootstrap.svg)](https://gemnasium.com/BryanH/formtastic-plus-bootstrap)
 
-`formtastic-plus-bootstrap` makes a formtastic form to look like a [bootstrap](http://twitter.github.com/bootstrap/) form.
+`formtastic-plus-bootstrap` makes a [formtastic](https://github.com/justinfrench/formtastic) form to look like a [bootstrap](https://getbootstrap.com/) form.
 
 ## Installation
 
@@ -35,5 +35,9 @@ All done. Enjoy nice looking forms!
 
 ### Why should I use `formtastic-plus-bootstrap` instead of `formtastic-bootstrap`?
 
-[formtastic-bootstrap](https://github.com/mjbellantoni/formtastic-bootstrap) changes html-structure and breaks 3rd party extensions for [formtastic](https://github.com/justinfrench/formtastic).
+[formtastic-bootstrap](https://github.com/mjbellantoni/formtastic-bootstrap) changes html-structure and breaks 3rd party extensions for formtastic.
 `formtastic-plus-bootstrap` is just css-styles for standard formtastic forms.
+
+### Why should I use this fork instead of the [original](https://github.com/antage/formtastic-plus-bootstrap)?
+
+The original appears to be dead (no more updates). I'm adding in all the pull requests and plan on fixing any bugs reported against the original.
